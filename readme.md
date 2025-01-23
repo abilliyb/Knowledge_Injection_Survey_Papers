@@ -1,4 +1,4 @@
-# 📖Kowledge Injection Survey
+# 📖Knowledge Injection Survey
 ![image](https://github.com/user-attachments/assets/7be9e4e8-e80f-4723-8ca0-aa11329f54b1)
 
 # 🔥Our Survey Paper
@@ -7,6 +7,7 @@ Our survey about knowledge injection is available at:
 The Overview table is as follows. More details can be seen in our paper. 
 ![image](https://github.com/user-attachments/assets/e2ab21e0-152f-48e4-9e19-3070803aff7b)
 
+We categorized these papers into the following domains: Biomedicine, Finance, Materials & Chemistry, Mental Health, Education, Social Science, Code, Math, Physics, Law, Entertainment, Botanical, and Astronomy.
 
 ## Biomedicine
 [2023/04] HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge
