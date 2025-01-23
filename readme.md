@@ -14,17 +14,18 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 
 # 📌 Table of Content (ToC)
 - [Biomedicine](#section1) 
-- Finance
-- Materials & Chemistry
-- Mental Health, Education
-- Social Science
-- Code
-- Math
-- Physics
-- Law
-- Entertainment
-- Botanical
-- Astronomy
+- [Finance](#section2) 
+- [Materials & Chemistry](#section3) 
+- [Mental Health](#section4)
+- [Education](#section5)
+- [Social Science](#section6) 
+- [Code](#section7) 
+- [Math](#section8) 
+- [Physics](#section9) 
+- [Law](#section10) 
+- [Entertainment](#section11) 
+- [Botanical](#section12) 
+- [Astronomy](#section13) 
 
 
 
@@ -71,7 +72,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 
 
 
-# Finance
+# Finance <a id="section2"></a>
 [2022/10] WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain
 [[paper]](https://arxiv.org/abs/2211.00083)
 
@@ -102,7 +103,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 
 
 
-# Materials & Chemistry
+# Materials & Chemistry <a id="section3"></a>
 [2023/04] ChemCrow: Augmenting large-language models with chemistry tools
 [[paper]](https://arxiv.org/abs/2304.05376)
 
@@ -135,7 +136,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [[paper]](https://arxiv.org/abs/2501.06590)
 
 
-# Mental Health
+# Mental Health <a id="section4"></a>
 
 [2023/04] SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support  [[paper]](https://arxiv.org/abs/2305.00450)
 
@@ -146,7 +147,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 
 [2024/06] EmoLLM: Multimodal Emotional Understanding Meets Large Language Models  [[paper]](https://arxiv.org/abs/2406.16442)
 
-# Education
+# Education <a id="section5"></a>
 [2023/05] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education [[paper]](https://arxiv.org/abs/2308.02773)
 
 [2023/08] QiaoBan: A Parental Emotion Coaching Dialogue Assistant for Better Parent-Child Interaction
@@ -160,7 +161,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2024/09] SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models
 [[paper]](https://openreview.net/forum?id=qkoZgJhxsA)
 
-## Social Science
+## Social Science <a id="section6"></a>
 [2023/12] Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data
 [[paper]](https://arxiv.org/abs/2401.00893)
 
@@ -170,14 +171,14 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2024/10] From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution
 [[paper]](https://arxiv.org/abs/2410.19064)
 
-# Code
+# Code <a id="section7"></a>
 [2022/02] Competition-Level Code Generation with AlphaCode
 [[paper]](https://arxiv.org/abs/2203.07814)
 
 [2023/08] Code Llama: Open Foundation Models for Code
 [[paper]](https://arxiv.org/abs/2308.12950)
 
-# Math
+# Math <a id="section8"></a>
 [2023/03] MathPrompter: Mathematical Reasoning using Large Language Models
 [[paper]](https://arxiv.org/abs/2303.05398)
 
@@ -194,7 +195,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [[paper]](https://arxiv.org/abs/2404.06711)
 
 
-# Physics
+# Physics <a id="section9"></a>
 [2022/11] Galactica: A Large Language Model for Science
 [[paper]](https://arxiv.org/abs/2211.09085)
 
@@ -213,7 +214,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 
 
 
-# Law
+# Law <a id="section10"></a>
 
 [2023/09] DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services
 [[paper]](https://arxiv.org/abs/2309.11325)
@@ -240,7 +241,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [[paper]](https://ieeexplore.ieee.org/document/10750819)
 
 
-# Entertainment
+# Entertainment <a id="section11"></a>
 [2023/01] MusicLM: Generating Music From Text
 [[paper]](https://arxiv.org/abs/2301.11325)
 
@@ -272,7 +273,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [[paper]](https://arxiv.org/abs/2409.00286)
 
 
-# Botanical
+# Botanical <a id="section12"></a>
 [2024/01] PLLaMa: An Open-source Large Language Model for Plant Science
 [[paper]](https://arxiv.org/abs/2401.01600)
 
@@ -280,7 +281,7 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [[paper]](https://arxiv.org/abs/2401.06807)
 
 
-# Astronomy
+# Astronomy <a id="section13"></a>
 [2023/09] AstroLLaMA: Towards Specialized Foundation Models in Astronomy
 [[paper]](https://arxiv.org/abs/2309.06126)
 
