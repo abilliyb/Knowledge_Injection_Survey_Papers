@@ -1,15 +1,37 @@
-# 📖Knowledge Injection Survey
+<h1 align="center"> 📖Knowledge Injection Survey </h1>
+
 ![image](https://github.com/user-attachments/assets/7be9e4e8-e80f-4723-8ca0-aa11329f54b1)
 
-# 🔥Our Survey Paper
+# 🔥 Our Survey Paper
 Our survey about knowledge injection is available at:
 
 The Overview table is as follows. More details can be seen in our paper. 
 ![image](https://github.com/user-attachments/assets/e2ab21e0-152f-48e4-9e19-3070803aff7b)
 
-We categorized these papers into the following domains: Biomedicine, Finance, Materials & Chemistry, Mental Health, Education, Social Science, Code, Math, Physics, Law, Entertainment, Botanical, and Astronomy.
+# 🆕 News
+[2025/01] This repository is created to systematically organize a collection of scholarly papers on Knowledge Injection.
+We categorized these papers into the following domains:Biomedicine, Finance, Materials & Chemistry, Mental Health,Education, Social Science, Code, Math, Physics, Law, Entertainment, Botanical, and Astronomy.
 
-## Biomedicine
+# 📌 Table of Content (ToC)
+- [Biomedicine](#section1) 
+- Finance
+- Materials & Chemistry
+- Mental Health, Education
+- Social Science
+- Code
+- Math
+- Physics
+- Law
+- Entertainment
+- Botanical
+- Astronomy
+
+
+
+
+
+
+# Biomedicine <a id="section1"></a>
 [2023/04] HuaTuo: Tuning LLaMA Model with Chinese Medical Knowledge
 [[paper]](https://arxiv.org/abs/2304.06975)
 
@@ -49,7 +71,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 
 
 
-## Finance
+# Finance
 [2022/10] WHEN FLUE MEETS FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain
 [[paper]](https://arxiv.org/abs/2211.00083)
 
@@ -80,7 +102,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 
 
 
-## Materials & Chemistry
+# Materials & Chemistry
 [2023/04] ChemCrow: Augmenting large-language models with chemistry tools
 [[paper]](https://arxiv.org/abs/2304.05376)
 
@@ -113,7 +135,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 [[paper]](https://arxiv.org/abs/2501.06590)
 
 
-## Mental Health
+# Mental Health
 
 [2023/04] SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support  [[paper]](https://arxiv.org/abs/2305.00450)
 
@@ -124,7 +146,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 
 [2024/06] EmoLLM: Multimodal Emotional Understanding Meets Large Language Models  [[paper]](https://arxiv.org/abs/2406.16442)
 
-## Education
+# Education
 [2023/05] EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education [[paper]](https://arxiv.org/abs/2308.02773)
 
 [2023/08] QiaoBan: A Parental Emotion Coaching Dialogue Assistant for Better Parent-Child Interaction
@@ -148,14 +170,14 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 [2024/10] From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution
 [[paper]](https://arxiv.org/abs/2410.19064)
 
-## Code
+# Code
 [2022/02] Competition-Level Code Generation with AlphaCode
 [[paper]](https://arxiv.org/abs/2203.07814)
 
 [2023/08] Code Llama: Open Foundation Models for Code
 [[paper]](https://arxiv.org/abs/2308.12950)
 
-## Math
+# Math
 [2023/03] MathPrompter: Mathematical Reasoning using Large Language Models
 [[paper]](https://arxiv.org/abs/2303.05398)
 
@@ -172,7 +194,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 [[paper]](https://arxiv.org/abs/2404.06711)
 
 
-## Physics
+# Physics
 [2022/11] Galactica: A Large Language Model for Science
 [[paper]](https://arxiv.org/abs/2211.09085)
 
@@ -191,7 +213,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 
 
 
-## Law
+# Law
 
 [2023/09] DISC-LawLLM: Fine-tuning Large Language Models for Intelligent Legal Services
 [[paper]](https://arxiv.org/abs/2309.11325)
@@ -218,7 +240,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 [[paper]](https://ieeexplore.ieee.org/document/10750819)
 
 
-## Entertainment
+# Entertainment
 [2023/01] MusicLM: Generating Music From Text
 [[paper]](https://arxiv.org/abs/2301.11325)
 
@@ -250,7 +272,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 [[paper]](https://arxiv.org/abs/2409.00286)
 
 
-## Botanical
+# Botanical
 [2024/01] PLLaMa: An Open-source Large Language Model for Plant Science
 [[paper]](https://arxiv.org/abs/2401.01600)
 
@@ -258,7 +280,7 @@ We categorized these papers into the following domains: Biomedicine, Finance, Ma
 [[paper]](https://arxiv.org/abs/2401.06807)
 
 
-## Astronomy
+# Astronomy
 [2023/09] AstroLLaMA: Towards Specialized Foundation Models in Astronomy
 [[paper]](https://arxiv.org/abs/2309.06126)
 
