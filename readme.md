@@ -5,6 +5,8 @@
 Our survey about knowledge injection is available at:
 
 The Overview table is as follows. More details can be seen in our paper. 
+![image](https://github.com/user-attachments/assets/e2ab21e0-152f-48e4-9e19-3070803aff7b)
+
 
 ## Biomedicine
 [2024/11] BianCang: A Traditional Chinese Medicine Large Language Model
