@@ -6,7 +6,9 @@
 Our survey about knowledge injection is available at:
 
 The Overview table is as follows. More details can be seen in our paper. 
-![image](https://github.com/user-attachments/assets/e2ab21e0-152f-48e4-9e19-3070803aff7b)
+![image](https://github.com/user-attachments/assets/035626c6-4b19-4069-a39c-57007cf2aa0c)
+
+
 
 # 🆕 News
 [2025/01] This repository is created to systematically organize a collection of scholarly papers on Knowledge Injection.
