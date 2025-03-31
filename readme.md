@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/7be9e4e8-e80f-4723-8ca0-aa11329f54b1)
 
 # 🔥 Our Survey Paper
-Our survey about knowledge injection is available at:
+Our survey about knowledge injection is available at：[https://arxiv.org/abs/2502.10708](https://arxiv.org/abs/2502.10708)
 
 The Overview table is as follows. More details can be seen in our paper. 
 ![image](https://github.com/user-attachments/assets/035626c6-4b19-4069-a39c-57007cf2aa0c)
