@@ -107,6 +107,8 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2024/08] SNFinLLM: Systematic and Nuanced Financial Domain Adaptation of Chinese Large Language Models
 [[paper]](https://arxiv.org/abs/2408.02302)
 
+[2024/08] Fino1: On the Transferability of Reasoning Enhanced LLMs to Finance
+[[paper]](https://arxiv.org/pdf/2502.08127)
 
 
 # Materials & Chemistry <a id="section3"></a>
