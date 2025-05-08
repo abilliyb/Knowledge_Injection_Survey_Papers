@@ -143,9 +143,14 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
 [[paper]](https://arxiv.org/abs/2501.06590)
 
-OmniScience: A Domain-Specialized LLM for Scientific Reasoning and Discovery 
-  [[paper]](https://arxiv.org/pdf/2503.17604) 
-  
+[2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
+[[paper]](https://arxiv.org/abs/2501.06590)
+
+[2025/03]Foundational Large Language Models for Materials
+Research 
+  [[paper]](https://arxiv.org/pdf/2412.09560)
+
+
 # Mental Health <a id="section4"></a>
 
 [2023/04] SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support  [[paper]](https://arxiv.org/abs/2305.00450)
