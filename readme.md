@@ -1,6 +1,7 @@
 <h1 align="center"> 📖Knowledge Injection Survey </h1>
 
-![image](https://github.com/user-attachments/assets/7be9e4e8-e80f-4723-8ca0-aa11329f54b1)
+![intro](https://github.com/user-attachments/assets/1394284b-be1c-406d-8e2e-33152addf9af)
+
 
 # 🔥 Our Survey Paper
 Our survey about knowledge injection is available at：[https://arxiv.org/abs/2502.10708](https://arxiv.org/abs/2502.10708).
