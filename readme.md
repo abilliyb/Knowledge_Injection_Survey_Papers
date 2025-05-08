@@ -140,15 +140,17 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2024/12] DARWIN 1.5: Large Language Models as Materials Science Adapted Learners
 [[paper]](https://arxiv.org/abs/2412.11970)
 
-[2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
-[[paper]](https://arxiv.org/abs/2501.06590)
-
-[2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
-[[paper]](https://arxiv.org/abs/2501.06590)
-
-[2025/03]Foundational Large Language Models for Materials
+[2024/12]Foundational Large Language Models for Materials
 Research 
   [[paper]](https://arxiv.org/pdf/2412.09560)
+  
+[2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
+[[paper]](https://arxiv.org/abs/2501.06590)
+
+[2025/01] ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning
+[[paper]](https://arxiv.org/abs/2501.06590)
+
+
 
 
 # Mental Health <a id="section4"></a>
