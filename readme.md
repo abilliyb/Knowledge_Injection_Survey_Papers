@@ -72,6 +72,9 @@ We categorized these papers into the following domains:Biomedicine, Finance, Mat
 [2024/11] BianCang: A Traditional Chinese Medicine Large Language Model
 [[paper]](https://arxiv.org/abs/2411.11027)
 
+[2025/01] K-COMP: Retrieval-Augmented Medical Domain Question Answering With Knowledge-Injected Compressor
+[[paper]](https://arxiv.org/abs/2501.13567)
+
 [2025/02] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models 
   [[paper]](https://arxiv.org/pdf/2502.05478) 
 
